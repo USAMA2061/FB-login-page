@@ -1,0 +1,68 @@
+.div{
+    width: 65%;
+    height: 200px;
+    margin: 110px;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(238, 233, 233);
+    border-radius: 5px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    margin-top: 4%;
+}
+.login{
+    width:30%;
+    margin-left: 140px;
+    height: 160px;
+    text: shadow 5px;
+}
+.submit{
+    padding: 3px;
+    width: 215px;
+    background-color: #1877f2;
+    cursor: pointer;
+    color: white;
+
+}
+form{
+    padding: 20px;
+    margin-top: 2%;
+    border: 1px solid rgb(238, 233, 233);
+    /* padding-top: 20px; */
+}
+h1{
+    -webkit-text-fill-color: blue;
+    
+}
+.account{
+    outline: none;
+    margin-top: 20PX;
+    border: 1px solid rgb(238, 240, 240);
+    padding: 2px;
+    border-radius: 10px;
+    border: none;
+    border-color:green;
+
+}
+button{
+    padding: 4px;
+    /* width: 210px; */
+    margin-top: 15px;
+    border: 2px solid rgb(24, 197, 27);
+    background-color: rgb(43, 217, 43);
+    cursor: pointer;
+    
+    color: white;
+    
+   
+}
+input[type='text'], input[type='password']{
+    background-color: #fff;
+    border: 1px solid rgb(200,200, 200);
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+    justify-content: center;
+}
